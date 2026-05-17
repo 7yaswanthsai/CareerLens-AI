@@ -4,6 +4,12 @@ AI-powered career intelligence platform for resume analysis, semantic job matchi
 
 ---
 
+# CareerLens AI
+
+![CareerLens AI Banner](assets/banner.png)
+
+---
+
 # Overview
 
 CareerLens AI is an end-to-end AI-powered career intelligence platform designed to help job seekers better understand their resumes, identify missing skills, discover relevant career paths, and improve job readiness using AI and semantic search techniques.
