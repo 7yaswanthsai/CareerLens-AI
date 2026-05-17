@@ -2,10 +2,6 @@
 
 AI-powered career intelligence platform for resume analysis, semantic job matching, skill gap detection, and AI-driven career guidance.
 
----
-
-# CareerLens AI
-
 ![CareerLens AI Banner](assets/banner.png)
 
 ---
