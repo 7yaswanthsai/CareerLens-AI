@@ -1,0 +1,2387 @@
+{
+  "admin big data": [
+    "big data management",
+    "hadoop",
+    "spark",
+    "data warehousing",
+    "sql"
+  ],
+  "ansible operations engineer": [
+    "ansible",
+    "linux",
+    "automation",
+    "cloud platforms",
+    "ci/cd",
+    "infrastructure as code",
+    "kubernetes",
+    "docker",
+    "aws",
+    "terraform",
+    "python",
+    "scripting",
+    "networking"
+  ],
+  "artifactory administrator": [
+    "artifactory",
+    "repository management",
+    "devops tools",
+    "ci/cd pipelines"
+  ],
+  "artificial intelligence / machine learning leader": [
+    "ai/ml frameworks",
+    "leadership",
+    "strategic planning",
+    "data science"
+  ],
+  "artificial intelligence / machine learning sr.leader": [
+    "advanced ai/ml",
+    "leadership",
+    "strategic vision",
+    "team management"
+  ],
+  "artificial intelligence architect": [
+    "ai/ml frameworks",
+    "system architecture",
+    "cloud computing",
+    "data modeling"
+  ],
+  "artificial intelligence researcher": [
+    "research methodologies",
+    "ai/ml algorithms",
+    "python",
+    "data analysis"
+  ],
+  "big data architect": [
+    "big data technologies",
+    "hadoop",
+    "spark",
+    "data warehousing",
+    "system design"
+  ],
+  "big data engineer": [
+    "hadoop",
+    "spark",
+    "etl processes",
+    "data processing",
+    "database management"
+  ],
+  "big data specialist": [
+    "big data technologies",
+    "data analysis",
+    "sql",
+    "data mining"
+  ],
+  "build and release engineer": [
+    "ci/cd pipelines",
+    "build systems",
+    "automation",
+    "configuration management"
+  ],
+  "build engineer": [
+    "build systems",
+    "scripting",
+    "automation",
+    "software configuration management"
+  ],
+  "chef operations engineer": [
+    "chef",
+    "automation",
+    "infrastructure management",
+    "ruby"
+  ],
+  "data analysts": [
+    "sql",
+    "excel",
+    "data visualization",
+    "power bi",
+    "python",
+    "statistics",
+    "data mining",
+    "data cleansing",
+    "tableau",
+    "etl",
+    "data modeling"
+  ],
+  "data architect": [
+    "data modeling",
+    "database design",
+    "etl processes",
+    "data warehousing"
+  ],
+  "devops architect": [
+    "devops practices",
+    "cloud computing",
+    "automation",
+    "system architecture"
+  ],
+  "devops engineer": [
+    "automation",
+    "ci/cd",
+    "cloud computing",
+    "scripting"
+  ],
+  "elk engineer": [
+    "elk stack",
+    "log management",
+    "data analysis",
+    "system monitoring"
+  ],
+  "gerrit administrator": [
+    "gerrit",
+    "code review",
+    "git",
+    "version control"
+  ],
+  "jenkins engineer": [
+    "jenkins",
+    "ci/cd pipelines",
+    "build automation",
+    "devops practices"
+  ],
+  "jira administrator": [
+    "jira",
+    "atlassian suite",
+    "workflow configuration",
+    "project management"
+  ],
+  "kubernetes operations engineer": [
+    "kubernetes",
+    "container orchestration",
+    "cloud computing",
+    "devops practices"
+  ],
+  "machine learning architect": [
+    "machine learning algorithms",
+    "system architecture",
+    "cloud computing",
+    "data modeling"
+  ],
+  "machine learning engineer": [
+    "machine learning algorithms",
+    "python",
+    "data analysis",
+    "model deployment"
+  ],
+  "operations engineer": [
+    "system administration",
+    "linux/windows servers",
+    "troubleshooting",
+    "scripting"
+  ],
+  "principle engineer in artificial intelligence": [
+    "ai/ml architecture",
+    "leadership",
+    "strategic planning",
+    "deep learning"
+  ],
+  "principle engineer in big data": [
+    "big data architecture",
+    "hadoop",
+    "spark",
+    "data warehousing"
+  ],
+  "principle engineer in data analysis": [
+    "data analysis",
+    "statistical modeling",
+    "data visualization",
+    "leadership"
+  ],
+  "principle engineer in machine learning": [
+    "machine learning algorithms",
+    "model development",
+    "deployment",
+    "leadership"
+  ],
+  "production support engineer": [
+    "troubleshooting",
+    "incident management",
+    "system monitoring",
+    "technical support"
+  ],
+  "puppet operations engineer": [
+    "puppet",
+    "configuration management",
+    "automation",
+    "infrastructure as code"
+  ],
+  "senior build and release engineer": [
+    "ci/cd pipelines",
+    "build systems",
+    "automation",
+    "configuration management"
+  ],
+  "senior build engineer": [
+    "build systems",
+    "scripting",
+    "automation",
+    "software configuration management"
+  ],
+  "senior devops engineer": [
+    "devops practices",
+    "cloud computing",
+    "automation",
+    "system architecture"
+  ],
+  "site reliability engineer (kubernetes \u00e2\u0080\u0093 docker)": [
+    "sre",
+    "kubernetes",
+    "docker",
+    "linux",
+    "cloud computing",
+    "monitoring",
+    "automation",
+    "ci/cd",
+    "networking",
+    "troubleshooting"
+  ],
+  "splunk engineer": [
+    "splunk",
+    "log management",
+    "data analysis",
+    "system monitoring"
+  ],
+  ".net developer": [
+    ".net",
+    "asp.net",
+    "sql server",
+    "web api",
+    "mvc",
+    "entity framework",
+    "linq",
+    "git",
+    "cloud computing"
+  ],
+  "accessibility specialist": [
+    "web accessibility guidelines",
+    "html",
+    "css",
+    "javascript",
+    "user experience design"
+  ],
+  "agile project manager": [
+    "agile methodologies",
+    "scrum",
+    "kanban",
+    "project management tools",
+    "leadership"
+  ],
+  "android developer": [
+    "java",
+    "kotlin",
+    "android sdk",
+    "mobile app development",
+    "ui/ux design"
+  ],
+  "ansible automation engineer": [
+    "ansible",
+    "automation scripts",
+    "linux",
+    "networking",
+    "cloud computing"
+  ],
+  "appdynamics engineer": [
+    "appdynamics",
+    "application performance monitoring",
+    "troubleshooting",
+    "java",
+    ".net",
+    "cloud computing",
+    "metrics",
+    "alerting"
+  ],
+  "application security engineer": [
+    "security protocols",
+    "penetration testing",
+    "secure coding practices",
+    "compliance"
+  ],
+  "artifactory engineer": [
+    "artifactory",
+    "devops practices",
+    "continuous integration",
+    "software packaging"
+  ],
+  "aws devops engineer": [
+    "aws services",
+    "devops practices",
+    "ci/cd pipelines",
+    "automation"
+  ],
+  "aws solutions architect": [
+    "aws services",
+    "cloud architecture",
+    "solution design",
+    "cost optimization"
+  ],
+  "azure devops engineer": [
+    "azure services",
+    "devops practices",
+    "ci/cd pipelines",
+    "automation"
+  ],
+  "bamboo engineer": [
+    "bamboo",
+    "ci/cd pipelines",
+    "build automation",
+    "software configuration management"
+  ],
+  "bitbucket engineer": [
+    "bitbucket",
+    "git",
+    "version control",
+    "ci/cd integration"
+  ],
+  "blockchain developer": [
+    "blockchain technologies",
+    "solidity",
+    "cryptography",
+    "smart contracts"
+  ],
+  "business systems analyst": [
+    "requirements gathering",
+    "process analysis",
+    "system design",
+    "documentation"
+  ],
+  "c# developer": [
+    ".net framework",
+    "asp.net",
+    "software development",
+    "object-oriented programming"
+  ],
+  "chef inspec engineer": [
+    "chef inspec",
+    "compliance automation",
+    "infrastructure testing",
+    "ruby"
+  ],
+  "cloud administrator": [
+    "cloud platforms",
+    "system administration",
+    "virtualization",
+    "networking"
+  ],
+  "cloud architect": [
+    "cloud platforms",
+    "system architecture",
+    "cloud security",
+    "devops"
+  ],
+  "cloud automation engineer": [
+    "cloud automation tools",
+    "scripting",
+    "configuration management",
+    "devops"
+  ],
+  "cloud engineer": [
+    "cloud computing",
+    "aws",
+    "azure",
+    "google cloud",
+    "linux",
+    "networking",
+    "security",
+    "automation",
+    "scripting",
+    "virtualization"
+  ],
+  "cloud network engineer": [
+    "cloud networking",
+    "virtual networks",
+    "network security",
+    "cloud platforms"
+  ],
+  "cloud security engineer": [
+    "cloud security",
+    "security protocols",
+    "compliance",
+    "cloud platforms"
+  ],
+  "cnc programmer": [
+    "cnc machines",
+    "cad/cam software",
+    "g-code",
+    "manufacturing processes"
+  ],
+  "coder": [
+    "programming languages",
+    "scripting",
+    "problem solving",
+    "software development"
+  ],
+  "computer graphics animator": [
+    "animation software",
+    "3d modeling",
+    "visual effects",
+    "graphic design"
+  ],
+  "computer hardware engineer": [
+    "hardware design",
+    "circuit design",
+    "embedded systems",
+    "testing"
+  ],
+  "computer network architect": [
+    "network design",
+    "network protocols",
+    "security",
+    "system architecture"
+  ],
+  "computer programmer": [
+    "programming languages",
+    "algorithms",
+    "software development",
+    "debugging"
+  ],
+  "computer research scientist": [
+    "research methodologies",
+    "data analysis",
+    "programming",
+    "scientific writing"
+  ],
+  "computer systems analyst": [
+    "systems analysis",
+    "requirements gathering",
+    "process improvement",
+    "it consulting"
+  ],
+  "confluence engineer": [
+    "confluence",
+    "atlassian suite",
+    "documentation",
+    "collaboration tools"
+  ],
+  "consul engineer": [
+    "consul",
+    "service discovery",
+    "infrastructure automation",
+    "networking"
+  ],
+  "coverage.py engineer": [
+    "coverage.py",
+    "python testing",
+    "test coverage analysis",
+    "software quality"
+  ],
+  "data analyst": [
+    "data analysis",
+    "sql",
+    "data visualization",
+    "statistical analysis"
+  ],
+  "data engineer": [
+    "etl processes",
+    "data warehousing",
+    "big data technologies",
+    "database management"
+  ],
+  "data modeler": [
+    "data modeling techniques",
+    "database design",
+    "data governance",
+    "data analysis"
+  ],
+  "data scientist": [
+    "machine learning",
+    "statistical analysis",
+    "data mining",
+    "programming"
+  ],
+  "database administrator": [
+    "database management",
+    "sql",
+    "performance tuning",
+    "backup and recovery"
+  ],
+  "datadog engineer": [
+    "datadog",
+    "monitoring",
+    "system performance",
+    "cloud infrastructure"
+  ],
+  "developer": [
+    "programming",
+    "algorithms",
+    "data structures",
+    "debugging",
+    "software development",
+    "python",
+    "java",
+    "c++"
+  ],
+  "devops manager": [
+    "devops practices",
+    "team leadership",
+    "project management",
+    "automation"
+  ],
+  "devsecops architect": [
+    "devsecops practices",
+    "security automation",
+    "cloud security",
+    "system architecture"
+  ],
+  "devsecops engineer": [
+    "security automation",
+    "ci/cd",
+    "cloud security",
+    "scripting"
+  ],
+  "director of engineering": [
+    "leadership",
+    "software development",
+    "project management",
+    "team management"
+  ],
+  "docker engineer": [
+    "docker",
+    "containerization",
+    "orchestration",
+    "devops"
+  ],
+  "embedded software engineer": [
+    "embedded systems",
+    "c/c++",
+    "firmware development",
+    "hardware interfaces"
+  ],
+  "entry level developer": [
+    "programming basics",
+    "software development",
+    "problem solving",
+    "learning agility"
+  ],
+  "entry level network engineer": [
+    "networking basics",
+    "troubleshooting",
+    "system administration",
+    "learning agility"
+  ],
+  "entry level programmer": [
+    "programming basics",
+    "software development",
+    "problem solving",
+    "learning agility"
+  ],
+  "entry level software developer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "entry level software engineer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "entry level web developer": [
+    "html",
+    "css",
+    "javascript",
+    "basic web development",
+    "learning agility"
+  ],
+  "envoy engineer": [
+    "envoy proxy",
+    "service mesh",
+    "load balancing",
+    "networking"
+  ],
+  "falco engineer": [
+    "falco",
+    "kubernetes security",
+    "cloud security",
+    "system monitoring"
+  ],
+  "fluentd engineer": [
+    "fluentd",
+    "log aggregation",
+    "data collection",
+    "system monitoring"
+  ],
+  "fortify engineer": [
+    "fortify",
+    "static code analysis",
+    "application security",
+    "secure coding"
+  ],
+  "frameworks specialist": [
+    "software frameworks",
+    "programming languages",
+    "problem solving",
+    "system design"
+  ],
+  "front end developer": [
+    "html",
+    "css",
+    "javascript",
+    "ui/ux design",
+    "responsive design"
+  ],
+  "front end web developer": [
+    "javascript",
+    "html",
+    "css",
+    "react",
+    "angular",
+    "vue.js",
+    "node.js",
+    "typescript",
+    "sass",
+    "ui/ux design"
+  ],
+  "full stack developer": [
+    "html",
+    "css",
+    "javascript",
+    "back-end technologies",
+    "database management"
+  ],
+  "full stack java developer/programmer/engineer": [
+    "java",
+    "spring",
+    "hibernate",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "full stack python developer/programmer/engineer": [
+    "python",
+    "django",
+    "flask",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "game developer": [
+    "c++",
+    "game engines",
+    "3d modeling",
+    "game design"
+  ],
+  "gcp devops engineer": [
+    "google cloud platform",
+    "devops practices",
+    "ci/cd pipelines",
+    "automation"
+  ],
+  "gerrit engineer": [
+    "gerrit",
+    "git",
+    "code review",
+    "linux",
+    "automation",
+    "scripting",
+    "version control"
+  ],
+  "git engineer": [
+    "git",
+    "version control",
+    "branching strategies",
+    "collaboration"
+  ],
+  "github engineer": [
+    "github",
+    "git",
+    "collaboration tools",
+    "ci/cd integration"
+  ],
+  "gitlab engineer": [
+    "gitlab",
+    "git",
+    "ci/cd pipelines",
+    "devops practices"
+  ],
+  "gradle engineer": [
+    "gradle",
+    "build automation",
+    "java",
+    "software configuration management"
+  ],
+  "grafana engineer": [
+    "grafana",
+    "data visualization",
+    "monitoring",
+    "system performance"
+  ],
+  "groovy engineer": [
+    "groovy",
+    "scripting",
+    "automation",
+    "software development"
+  ],
+  "information architect": [
+    "information architecture",
+    "user experience design",
+    "content strategy",
+    "taxonomy"
+  ],
+  "information security analyst": [
+    "security protocols",
+    "threat analysis",
+    "compliance",
+    "incident response"
+  ],
+  "interaction designer": [
+    "interaction design",
+    "user research",
+    "prototyping",
+    "usability testing"
+  ],
+  "ios developer": [
+    "swift",
+    "objective-c",
+    "ios sdk",
+    "mobile app development",
+    "ui/ux design"
+  ],
+  "istio engineer": [
+    "istio",
+    "service mesh",
+    "traffic management",
+    "security"
+  ],
+  "it manager": [
+    "it management",
+    "team leadership",
+    "project management",
+    "budgeting"
+  ],
+  "jacoco engineer": [
+    "jacoco",
+    "code coverage",
+    "java testing",
+    "software quality"
+  ],
+  "java developer": [
+    "java",
+    "spring",
+    "hibernate",
+    "software development",
+    "object-oriented programming"
+  ],
+  "javascript developer": [
+    "javascript",
+    "html",
+    "css",
+    "react",
+    "angular",
+    "vue.js",
+    "node.js",
+    "typescript",
+    "sass",
+    "ui/ux design"
+  ],
+  "jira engineer": [
+    "jira",
+    "atlassian suite",
+    "agile methodologies",
+    "workflow configuration",
+    "user management",
+    "project management"
+  ],
+  "jr developer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "junior developer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "junior front end developer": [
+    "html",
+    "css",
+    "javascript",
+    "basic web development",
+    "learning agility"
+  ],
+  "junior ios developer": [
+    "swift",
+    "objective-c",
+    "ios sdk",
+    "basic mobile app development",
+    "learning agility"
+  ],
+  "junior software developer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "junior software engineer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "junior web developer": [
+    "html",
+    "css",
+    "javascript",
+    "git",
+    "web development fundamentals",
+    "ui/ux basics"
+  ],
+  "junit engineer": [
+    "junit",
+    "java testing",
+    "test automation",
+    "software quality"
+  ],
+  "kubernetes administrator": [
+    "kubernetes",
+    "docker",
+    "linux",
+    "cloud computing",
+    "aws",
+    "azure",
+    "networking",
+    "ci/cd",
+    "automation",
+    "security"
+  ],
+  "kubernetes engineer": [
+    "kubernetes",
+    "docker",
+    "linux",
+    "cloud computing",
+    "aws",
+    "azure",
+    "networking",
+    "ci/cd",
+    "automation",
+    "security"
+  ],
+  "maven engineer": [
+    "maven",
+    "build automation",
+    "java",
+    "software configuration management"
+  ],
+  "micro services / api lead designer": [
+    "microservices",
+    "api design",
+    "rest apis",
+    "soa",
+    "cloud computing",
+    "java",
+    "python",
+    "security"
+  ],
+  "mobile app developer": [
+    "mobile app development",
+    "ios/android sdks",
+    "ui/ux design",
+    "programming languages"
+  ],
+  "mobile application developer": [
+    "android sdk",
+    "java",
+    "kotlin",
+    "ios",
+    "swift",
+    "objective-c",
+    "react native",
+    "flutter",
+    "mobile development",
+    "ui/ux design"
+  ],
+  "mulesoft developer": [
+    "mulesoft anypoint platform",
+    "api integration",
+    "java",
+    "integration patterns"
+  ],
+  "nagios engineer": [
+    "nagios",
+    "system monitoring",
+    "linux",
+    "networking"
+  ],
+  "network and systems administrator": [
+    "networking",
+    "system administration",
+    "linux/windows servers",
+    "troubleshooting"
+  ],
+  "network engineer": [
+    "networking protocols",
+    "cisco/juniper devices",
+    "network security",
+    "troubleshooting"
+  ],
+  "new grad software engineer": [
+    "javascript",
+    "java",
+    "python",
+    "git",
+    "sql",
+    "html",
+    "css",
+    "data structures",
+    "algorithms"
+  ],
+  "new relic engineer": [
+    "new relic",
+    "application performance monitoring",
+    "troubleshooting",
+    "cloud computing"
+  ],
+  "nexus engineer": [
+    "nexus repository manager",
+    "artifact management",
+    "devops practices"
+  ],
+  "nomad engineer": [
+    "nomad",
+    "container orchestration",
+    "hashicorp tools",
+    "infrastructure automation"
+  ],
+  "notary engineer": [
+    "notary",
+    "container security",
+    "docker",
+    "cryptography"
+  ],
+  "octopus deploy engineer": [
+    "octopus deploy",
+    "deployment automation",
+    ".net",
+    "powershell"
+  ],
+  "openshift engineer": [
+    "openshift",
+    "kubernetes",
+    "containerization",
+    "devops practices"
+  ],
+  "openstack engineer": [
+    "openstack",
+    "cloud computing",
+    "virtualization",
+    "system administration"
+  ],
+  "oracle developer": [
+    "oracle database",
+    "sql",
+    "pl/sql",
+    "database development"
+  ],
+  "oracle sql developer": [
+    "oracle sql",
+    "pl/sql",
+    "data modeling",
+    "database design"
+  ],
+  "packer engineer": [
+    "packer",
+    "infrastructure as code",
+    "cloud computing",
+    "automation"
+  ],
+  "php developer": [
+    "php",
+    "mysql",
+    "web development",
+    "frameworks (laravel",
+    "symfony)"
+  ],
+  "powershell engineer": [
+    "powershell",
+    "automation",
+    "windows server administration",
+    "scripting"
+  ],
+  "product manager": [
+    "product strategy",
+    "market analysis",
+    "requirements gathering",
+    "product roadmap"
+  ],
+  "programmer": [
+    "programming",
+    "algorithms",
+    "data structures",
+    "debugging",
+    "software development",
+    "python",
+    "java",
+    "c++"
+  ],
+  "programmer analyst": [
+    "programming",
+    "data analysis",
+    "requirements gathering",
+    "sql",
+    "data modeling",
+    "process improvement"
+  ],
+  "prometheus engineer": [
+    "prometheus",
+    "monitoring",
+    "alerting",
+    "metrics",
+    "kubernetes",
+    "docker",
+    "cloud computing"
+  ],
+  "puppet engineer": [
+    "puppet",
+    "ruby",
+    "automation",
+    "configuration management",
+    "linux",
+    "cloud computing",
+    "aws",
+    "azure",
+    "infrastructure as code"
+  ],
+  "pytest engineer": [
+    "pytest",
+    "python",
+    "testing",
+    "unit testing",
+    "test automation",
+    "ci/cd"
+  ],
+  "python developer": [
+    "python",
+    "web frameworks (django",
+    "flask)",
+    "data analysis",
+    "scripting"
+  ],
+  "qa engineer": [
+    "automation testing",
+    "selenium",
+    "junit",
+    "testng",
+    "ci/cd",
+    "python",
+    "git",
+    "jenkins",
+    "test automation",
+    "agile testing",
+    "performance testing"
+  ],
+  "react developer": [
+    "javascript",
+    "react",
+    "html",
+    "css",
+    "node.js",
+    "redux",
+    "ui/ux design",
+    "git"
+  ],
+  "robotics engineer": [
+    "robotics",
+    "c++",
+    "python",
+    "ros",
+    "embedded systems",
+    "control systems",
+    "sensors",
+    "actuators"
+  ],
+  "ruby on rails developer": [
+    "ruby on rails",
+    "ruby",
+    "sql",
+    "html",
+    "css",
+    "javascript",
+    "rest apis",
+    "git"
+  ],
+  "salesforce developer": [
+    "salesforce",
+    "apex",
+    "visualforce",
+    "lightning",
+    "soql",
+    "salesforce administration",
+    "rest apis"
+  ],
+  "search engine optimization": [
+    "seo",
+    "keyword research",
+    "on-page optimization",
+    "off-page optimization",
+    "content marketing",
+    "analytics"
+  ],
+  "security specialist": [
+    "security protocols",
+    "threat analysis",
+    "compliance",
+    "risk management"
+  ],
+  "selenium engineer": [
+    "selenium",
+    "test automation",
+    "java",
+    "python",
+    "webdriver",
+    "ci/cd",
+    "testing frameworks"
+  ],
+  "senior ansible development engineer": [
+    "ansible",
+    "automation",
+    "infrastructure as code",
+    "cloud computing",
+    "aws",
+    "azure",
+    "linux",
+    "python",
+    "scripting",
+    "networking",
+    "leadership"
+  ],
+  "senior cloud architect": [
+    "cloud architecture",
+    "aws",
+    "azure",
+    "google cloud",
+    "microservices",
+    "kubernetes",
+    "docker",
+    "security",
+    "leadership"
+  ],
+  "senior devops architect": [
+    "cloud computing",
+    "aws",
+    "azure",
+    "google cloud",
+    "docker",
+    "kubernetes",
+    "terraform",
+    "ansible",
+    "ci/cd",
+    "automation",
+    "security",
+    "networking",
+    "leadership"
+  ],
+  "senior devsecops architect": [
+    "devsecops",
+    "cloud security",
+    "kubernetes",
+    "docker",
+    "terraform",
+    "ansible",
+    "ci/cd",
+    "security automation",
+    "vulnerability management",
+    "leadership"
+  ],
+  "senior sre architect": [
+    "sre",
+    "monitoring",
+    "kubernetes",
+    "docker",
+    "cloud platforms",
+    "linux",
+    "automation",
+    "devops",
+    "ci/cd",
+    "python",
+    "networking",
+    "leadership"
+  ],
+  "senior sre engineer": [
+    "sre",
+    "monitoring",
+    "kubernetes",
+    "docker",
+    "cloud platforms",
+    "linux",
+    "automation",
+    "devops",
+    "ci/cd",
+    "python",
+    "networking",
+    "leadership"
+  ],
+  "sharepoint developer": [
+    "sharepoint",
+    ".net",
+    "javascript",
+    "powershell",
+    "sharepoint framework",
+    "rest apis"
+  ],
+  "software developer": [
+    "programming",
+    "algorithms",
+    "data structures",
+    "debugging",
+    "software development",
+    "python",
+    "java",
+    "c++"
+  ],
+  "software engineer": [
+    "java",
+    "c++",
+    "python",
+    "algorithms",
+    "data structures",
+    "software design",
+    "git",
+    "jenkins",
+    "ci/cd",
+    "cloud computing"
+  ],
+  "sonarqube engineer": [
+    "sonarqube",
+    "code quality",
+    "static code analysis",
+    "java",
+    ".net",
+    "security",
+    "ci/cd"
+  ],
+  "splunk enterprise security engineer": [
+    "splunk enterprise security",
+    "security information and event management (siem)",
+    "threat detection",
+    "incident response",
+    "security analysis"
+  ],
+  "sql developer": [
+    "sql",
+    "t-sql",
+    "sql server",
+    "database design",
+    "performance tuning",
+    "etl",
+    "ssrs",
+    "ssis",
+    "data modeling"
+  ],
+  "sre architect": [
+    "sre",
+    "cloud architecture",
+    "kubernetes",
+    "docker",
+    "monitoring",
+    "incident management",
+    "automation",
+    "ci/cd",
+    "networking"
+  ],
+  "sre engineer": [
+    "sre",
+    "monitoring",
+    "kubernetes",
+    "docker",
+    "cloud platforms",
+    "linux",
+    "automation",
+    "devops",
+    "ci/cd",
+    "python"
+  ],
+  "systems administrator": [
+    "linux administration",
+    "windows server administration",
+    "networking",
+    "troubleshooting",
+    "scripting",
+    "virtualization"
+  ],
+  "systems engineer": [
+    "systems design",
+    "linux administration",
+    "windows server administration",
+    "networking",
+    "cloud computing"
+  ],
+  "teamcity engineer": [
+    "teamcity",
+    "ci/cd",
+    "build automation",
+    "version control",
+    "git"
+  ],
+  "tech sales engineer": [
+    "technical sales",
+    "product knowledge",
+    "customer engagement",
+    "networking technologies"
+  ],
+  "technical account manager": [
+    "customer relationship management",
+    "technical support",
+    "account management",
+    "sales"
+  ],
+  "technical lead": [
+    "technical leadership",
+    "software development",
+    "team leadership",
+    "mentoring"
+  ],
+  "terraform engineer": [
+    "terraform",
+    "infrastructure as code (iac)",
+    "aws",
+    "azure",
+    "google cloud"
+  ],
+  "tfs engineer": [
+    "tfs (team foundation server)",
+    ".net development tools",
+    ".net framework"
+  ],
+  "udeploy engineer": [
+    "udeploy (urbancode deploy)",
+    "ci/cd",
+    "automation",
+    "deployment strategies",
+    "version control"
+  ],
+  "ui designer": [
+    "ui design principles",
+    "wireframing",
+    "prototyping",
+    "adobe creative suite",
+    "figma",
+    "user testing"
+  ],
+  "ui developer": [
+    "html5",
+    "css3",
+    "javascript",
+    "jquery",
+    "responsive design",
+    "angularjs",
+    "reactjs"
+  ],
+  "unity developer": [
+    "unity3d engine",
+    "game development principles",
+    "3d modeling",
+    "animation"
+  ],
+  "ux designer": [
+    "user experience design principles",
+    "user research",
+    "wireframing",
+    "prototyping",
+    "usability testing",
+    "interaction design"
+  ],
+  "vault engineer": [
+    "hashicorp vault",
+    "secrets management",
+    "encryption",
+    "access control",
+    "cloud security"
+  ],
+  "web designer (ui/ux designer)": [
+    "ui/ux design",
+    "wireframing",
+    "prototyping",
+    "adobe creative suite",
+    "figma"
+  ],
+  "web developer": [
+    "html",
+    "css",
+    "javascript",
+    "web development",
+    "frameworks"
+  ],
+  "wordpress developer": [
+    "wordpress",
+    "php",
+    "mysql",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "xl deploy engineer": [
+    "xl deploy",
+    "deployment automation",
+    "devops practices",
+    "configuration management"
+  ],
+  "zabbix engineer": [
+    "zabbix",
+    "system monitoring",
+    "network monitoring",
+    "alerting"
+  ],
+  "site reliability engineer (kubernetes \u00e3\u0082\u00e2\u0082\u00ac\u00e3\u00af\u00e2\u00bf\u00e2\u00bd docker)": [
+    "kubernetes",
+    "docker",
+    "system reliability",
+    "automation",
+    "monitoring"
+  ],
+  "api developer": [
+    "api design",
+    "restful services",
+    "programming languages",
+    "security"
+  ],
+  "automation specialist": [
+    "automation tools",
+    "scripting",
+    "process improvement",
+    "testing"
+  ],
+  "business intelligence analyst": [
+    "data analysis",
+    "sql",
+    "data visualization",
+    "business acumen"
+  ],
+  "cloud migration specialist": [
+    "cloud platforms",
+    "migration tools",
+    "system migration",
+    "project management"
+  ],
+  "cybersecurity analyst": [
+    "security protocols",
+    "threat analysis",
+    "compliance",
+    "incident response"
+  ],
+  "data quality engineer": [
+    "data quality tools",
+    "data profiling",
+    "sql",
+    "data governance"
+  ],
+  "digital transformation consultant": [
+    "digital strategy",
+    "technology consulting",
+    "business process improvement",
+    "change management"
+  ],
+  "e-commerce developer": [
+    "e-commerce platforms",
+    "web development",
+    "payment gateways",
+    "security"
+  ],
+  "embedded systems engineer": [
+    "embedded systems",
+    "c/c++",
+    "firmware development",
+    "hardware interfaces"
+  ],
+  "erp consultant": [
+    "erp systems",
+    "business process analysis",
+    "implementation",
+    "training"
+  ],
+  "geographic information systems (gis) analyst": [
+    "gis software",
+    "spatial analysis",
+    "cartography",
+    "data visualization"
+  ],
+  "help desk technician": [
+    "technical support",
+    "troubleshooting",
+    "customer service",
+    "hardware/software"
+  ],
+  "identity and access management specialist": [
+    "iam systems",
+    "security protocols",
+    "authentication",
+    "authorization"
+  ],
+  "infrastructure architect": [
+    "system architecture",
+    "cloud computing",
+    "networking",
+    "security"
+  ],
+  "internet of things (iot) developer": [
+    "iot platforms",
+    "embedded systems",
+    "sensor technology",
+    "programming languages"
+  ],
+  "it auditor": [
+    "it auditing",
+    "compliance",
+    "risk management",
+    "security"
+  ],
+  "java architect": [
+    "java",
+    "system architecture",
+    "design patterns",
+    "cloud computing"
+  ],
+  "linux administrator": [
+    "linux servers",
+    "system administration",
+    "scripting",
+    "troubleshooting"
+  ],
+  "mainframe developer": [
+    "mainframe systems",
+    "cobol",
+    "jcl",
+    "vsam"
+  ],
+  "microsoft dynamics developer": [
+    "microsoft dynamics",
+    "crm",
+    ".net",
+    "development"
+  ],
+  "mobile security specialist": [
+    "mobile security",
+    "penetration testing",
+    "security protocols",
+    "risk management"
+  ],
+  "natural language processing engineer": [
+    "nlp algorithms",
+    "python",
+    "machine learning",
+    "text analysis"
+  ],
+  "network architect": [
+    "network design",
+    "network protocols",
+    "security",
+    "system architecture"
+  ],
+  "penetration tester": [
+    "penetration testing",
+    "security audits",
+    "ethical hacking",
+    "vulnerability assessment"
+  ],
+  "python architect": [
+    "python",
+    "system architecture",
+    "design patterns",
+    "cloud computing"
+  ],
+  "quality assurance manager": [
+    "qa processes",
+    "test automation",
+    "test planning",
+    "team leadership"
+  ],
+  "release manager": [
+    "release management",
+    "ci/cd pipelines",
+    "coordination",
+    "communication"
+  ],
+  "sap consultant": [
+    "sap modules",
+    "business process analysis",
+    "implementation",
+    "customization"
+  ],
+  "ux/ui designer": [
+    "ux/ui design",
+    "user research",
+    "prototyping",
+    "usability testing"
+  ],
+  "back end developer": [
+    "server-side programming",
+    "databases",
+    "api development",
+    "frameworks"
+  ],
+  "web designer": [
+    "web design",
+    "graphic design",
+    "ui/ux principles",
+    "wireframing"
+  ],
+  "web engineer": [
+    "web technologies",
+    "system architecture",
+    "performance optimization",
+    "security"
+  ],
+  "web producer": [
+    "web content management",
+    "project management",
+    "content strategy",
+    "collaboration"
+  ],
+  "web project manager": [
+    "project management",
+    "web development",
+    "communication",
+    "budgeting"
+  ],
+  "web content manager": [
+    "content creation",
+    "content strategy",
+    "cms",
+    "seo"
+  ],
+  "multimedia architect": [
+    "multimedia design",
+    "video production",
+    "audio production",
+    "graphic design"
+  ],
+  "web analytics developer": [
+    "web analytics tools",
+    "data analysis",
+    "reporting",
+    "a/b testing"
+  ],
+  "seo consultant": [
+    "search engine optimization",
+    "keyword research",
+    "content optimization",
+    "link building"
+  ],
+  "seo manager": [
+    "seo strategy",
+    "team leadership",
+    "performance monitoring",
+    "reporting"
+  ],
+  "internet engineer": [
+    "networking protocols",
+    "internet technologies",
+    "system administration",
+    "security"
+  ],
+  "front-end designer": [
+    "html",
+    "css",
+    "javascript",
+    "ui/ux design",
+    "responsive design"
+  ],
+  "mobile developer": [
+    "mobile app development",
+    "ios/android sdks",
+    "ui/ux design",
+    "programming languages"
+  ],
+  "power bi developer": [
+    "power bi",
+    "data modeling",
+    "dax",
+    "data visualization"
+  ],
+  "power bi analyst": [
+    "power bi",
+    "data analysis",
+    "sql",
+    "business intelligence"
+  ],
+  "cloud computing specialist": [
+    "cloud platforms",
+    "virtualization",
+    "system administration",
+    "security"
+  ],
+  "cybersecurity specialist": [
+    "security protocols",
+    "threat analysis",
+    "compliance",
+    "incident response"
+  ],
+  "data science specialist": [
+    "data analysis",
+    "machine learning",
+    "statistical modeling",
+    "data visualization"
+  ],
+  "artificial intelligence engineer": [
+    "ai/ml algorithms",
+    "python",
+    "deep learning",
+    "neural networks"
+  ],
+  "database architect": [
+    "database design",
+    "data modeling",
+    "sql",
+    "performance tuning"
+  ],
+  "software architect": [
+    "system architecture",
+    "design patterns",
+    "programming languages",
+    "cloud computing"
+  ],
+  "cybersecurity engineer": [
+    "security protocols",
+    "threat analysis",
+    "risk management",
+    "incident response"
+  ],
+  "infosec analyst/cybersecurity analyst": [
+    "security protocols",
+    "threat analysis",
+    "compliance",
+    "incident response"
+  ],
+  "computer forensic analyst": [
+    "digital forensics",
+    "incident response",
+    "data recovery",
+    "legal compliance"
+  ],
+  "it security specialist": [
+    "security protocols",
+    "threat analysis",
+    "compliance",
+    "risk management"
+  ],
+  "security manager": [
+    "security management",
+    "risk assessment",
+    "compliance",
+    "team leadership"
+  ],
+  "security engineer": [
+    "security protocols",
+    "threat analysis",
+    "risk management",
+    "incident response"
+  ],
+  "security consultant": [
+    "security consulting",
+    "risk assessment",
+    "compliance",
+    "security solutions"
+  ],
+  "director of security": [
+    "security leadership",
+    "risk management",
+    "compliance",
+    "incident response"
+  ],
+  "security administrator": [
+    "security tools",
+    "system administration",
+    "user management",
+    "security policies"
+  ],
+  "chief information officer": [
+    "it strategy",
+    "leadership",
+    "budgeting",
+    "project management"
+  ],
+  "network security engineer": [
+    "networking protocols",
+    "security protocols",
+    "firewall management",
+    "intrusion detection"
+  ],
+  "machine learning engineer for cybersecurity": [
+    "machine learning algorithms",
+    "cybersecurity",
+    "data analysis",
+    "threat detection"
+  ],
+  "network analyst": [
+    "network monitoring",
+    "troubleshooting",
+    "performance analysis",
+    "reporting"
+  ],
+  "network operations engineer": [
+    "network operations",
+    "troubleshooting",
+    "monitoring",
+    "incident response"
+  ],
+  "network reliability engineer": [
+    "network reliability",
+    "automation",
+    "monitoring",
+    "incident response"
+  ],
+  "network infrastructure specialist": [
+    "networking hardware",
+    "cabling",
+    "network design",
+    "implementation"
+  ],
+  "computer support specialist": [
+    "technical support",
+    "troubleshooting",
+    "customer service",
+    "hardware/software"
+  ],
+  "information technology analyst": [
+    "it analysis",
+    "requirements gathering",
+    "process improvement",
+    "it consulting"
+  ],
+  "technology sales consultant": [
+    "sales",
+    "technology solutions",
+    "customer relationship management",
+    "technical expertise"
+  ],
+  "database developer": [
+    "database development",
+    "sql",
+    "pl/sql",
+    "data modeling"
+  ],
+  "database analyst": [
+    "data analysis",
+    "sql",
+    "data modeling",
+    "reporting"
+  ],
+  "data warehouse manager": [
+    "data warehousing",
+    "etl processes",
+    "data modeling",
+    "team leadership"
+  ],
+  "data warehouse programming specialist": [
+    "etl processes",
+    "sql",
+    "data modeling",
+    "data warehousing"
+  ],
+  "intelligence specialist": [
+    "data analysis",
+    "intelligence gathering",
+    "reporting",
+    "security"
+  ],
+  "cloud/software architect": [
+    "cloud platforms",
+    "system architecture",
+    "cloud security",
+    "devops"
+  ],
+  "cloud/software developer": [
+    "cloud platforms",
+    "programming languages",
+    "software development",
+    "cloud services"
+  ],
+  "cloud/software applications engineer": [
+    "cloud platforms",
+    "application development",
+    "cloud services",
+    "devops"
+  ],
+  "cloud system administrator": [
+    "cloud platforms",
+    "system administration",
+    "virtualization",
+    "networking"
+  ],
+  "cloud system engineer": [
+    "cloud platforms",
+    "system engineering",
+    "automation",
+    "scripting"
+  ],
+  "platform engineer": [
+    "platform engineering",
+    "cloud computing",
+    "automation",
+    "devops practices"
+  ],
+  "software quality assurance analyst": [
+    "qa processes",
+    "test planning",
+    "test execution",
+    "reporting"
+  ],
+  "ui (user interface) designer": [
+    "ui design",
+    "user research",
+    "prototyping",
+    "usability testing"
+  ],
+  "it sales executive": [
+    "sales",
+    "technology solutions",
+    "customer relationship management",
+    "sales strategy"
+  ],
+  "it sales director": [
+    "sales leadership",
+    "sales strategy",
+    "customer relationship management",
+    "team management"
+  ],
+  "technology manager": [
+    "it management",
+    "team leadership",
+    "project management",
+    "budgeting"
+  ],
+  "technology assistant": [
+    "technical support",
+    "administrative support",
+    "hardware/software",
+    "troubleshooting"
+  ],
+  "technology specialist": [
+    "technical expertise",
+    "problem solving",
+    "troubleshooting",
+    "it support"
+  ],
+  "director oracle": [
+    "oracle database",
+    "team leadership",
+    "project management",
+    "budgeting"
+  ],
+  "knowledge manager": [
+    "knowledge management",
+    "information architecture",
+    "collaboration",
+    "documentation"
+  ],
+  "manager hardware": [
+    "hardware management",
+    "team leadership",
+    "budgeting",
+    "inventory management"
+  ],
+  "sharepoint manager": [
+    "sharepoint",
+    "team leadership",
+    "project management",
+    "collaboration"
+  ],
+  "requirements manager": [
+    "requirements gathering",
+    "analysis",
+    "documentation",
+    "communication"
+  ],
+  "implementation director": [
+    "implementation management",
+    "project management",
+    "team leadership",
+    "communication"
+  ],
+  "technology officer": [
+    "it strategy",
+    "leadership",
+    "innovation",
+    "project management"
+  ],
+  "director business systems": [
+    "business systems",
+    "team leadership",
+    "project management",
+    "process improvement"
+  ],
+  "manager net": [
+    "net development",
+    "team leadership",
+    "project management",
+    ".net framework"
+  ],
+  "systems integration manager": [
+    "systems integration",
+    "project management",
+    "team leadership",
+    "communication"
+  ],
+  "digital program manager": [
+    "digital strategy",
+    "program management",
+    "team leadership",
+    "communication"
+  ],
+  "integration director": [
+    "integration management",
+    "project management",
+    "team leadership",
+    "communication"
+  ],
+  "director hardware": [
+    "hardware management",
+    "team leadership",
+    "budgeting",
+    "strategic planning"
+  ],
+  "manager linux": [
+    "linux administration",
+    "team leadership",
+    "project management",
+    "troubleshooting"
+  ],
+  "manager php": [
+    "php development",
+    "team leadership",
+    "project management",
+    "web development"
+  ],
+  "firmware manager": [
+    "firmware development",
+    "team leadership",
+    "project management",
+    "embedded systems"
+  ],
+  "it program engagement director": [
+    "it program management",
+    "customer relationship management",
+    "stakeholder management",
+    "team leadership"
+  ],
+  "manager unix": [
+    "unix administration",
+    "team leadership",
+    "project management",
+    "troubleshooting"
+  ],
+  "technology adoption manager": [
+    "technology adoption",
+    "training",
+    "communication",
+    "change management"
+  ],
+  "it support specialist": [
+    "technical support",
+    "troubleshooting",
+    "customer service",
+    "hardware/software"
+  ],
+  "customer service representative": [
+    "customer service",
+    "communication",
+    "problem solving",
+    "technical support"
+  ],
+  "technical product manager": [
+    "product management",
+    "technical expertise",
+    "market analysis",
+    "requirements gathering"
+  ],
+  "project manager": [
+    "project management",
+    "planning",
+    "execution",
+    "communication"
+  ],
+  "program manager": [
+    "program management",
+    "planning",
+    "execution",
+    "communication"
+  ],
+  "portfolio manager": [
+    "portfolio management",
+    "investment management",
+    "risk management",
+    "financial analysis"
+  ],
+  "chief information officer (cio)": [
+    "it strategy",
+    "leadership",
+    "budgeting",
+    "project management"
+  ],
+  "chief technology officer (cto)": [
+    "technology strategy",
+    "innovation",
+    "research and development",
+    "team leadership"
+  ],
+  "it director": [
+    "it management",
+    "team leadership",
+    "budgeting",
+    "project management"
+  ],
+  "technical operations officer": [
+    "technical operations",
+    "infrastructure management",
+    "system administration",
+    "incident response"
+  ],
+  "information management systems director": [
+    "information management",
+    "systems administration",
+    "data management",
+    "compliance"
+  ],
+  "senior it consultant": [
+    "it consulting",
+    "project management",
+    "technical expertise",
+    "client management"
+  ],
+  "it apprentice": [
+    "technical support",
+    "troubleshooting",
+    "learning agility",
+    "customer service"
+  ],
+  "it technician": [
+    "technical support",
+    "troubleshooting",
+    "hardware/software",
+    "networking"
+  ],
+  "it systems administrator": [
+    "system administration",
+    "linux/windows servers",
+    "troubleshooting",
+    "scripting"
+  ],
+  "it engineer": [
+    "system engineering",
+    "networking",
+    "cloud computing",
+    "security"
+  ],
+  "computer network specialist": [
+    "networking",
+    "troubleshooting",
+    "system administration",
+    "security"
+  ],
+  "computer and information research scientist": [
+    "research methodologies",
+    "data analysis",
+    "programming",
+    "scientific writing"
+  ],
+  "computer and information research manager": [
+    "research management",
+    "team leadership",
+    "budgeting",
+    "project management"
+  ],
+  "software development manager": [
+    "software development",
+    "team leadership",
+    "project management",
+    "software architecture"
+  ],
+  "software development engineer": [
+    "software development",
+    "programming languages",
+    "algorithm design",
+    "problem solving"
+  ],
+  "application designer": [
+    "application design",
+    "ui/ux principles",
+    "programming languages",
+    "software architecture"
+  ],
+  "application engineer": [
+    "application development",
+    "programming languages",
+    "troubleshooting",
+    "system administration"
+  ],
+  "lead programmer": [
+    "programming languages",
+    "software development",
+    "team leadership",
+    "mentoring"
+  ],
+  "iteration manager": [
+    "agile methodologies",
+    "scrum",
+    "kanban",
+    "team facilitation"
+  ],
+  "webmaster": [
+    "web development",
+    "web design",
+    "system administration",
+    "content management"
+  ],
+  "ux/ui researcher": [
+    "user research",
+    "usability testing",
+    "data analysis",
+    "reporting"
+  ],
+  "ux/ui specialist": [
+    "ux/ui design",
+    "user research",
+    "prototyping",
+    "usability testing"
+  ],
+  "animator": [
+    "animation software",
+    "2d/3d animation",
+    "storyboarding",
+    "visual effects"
+  ],
+  "motion graphics artist": [
+    "motion graphics",
+    "animation software",
+    "visual effects",
+    "graphic design"
+  ],
+  "2d artist/animator": [
+    "2d animation",
+    "drawing",
+    "illustration",
+    "animation software"
+  ],
+  "3d artist/animator": [
+    "3d animation",
+    "modeling",
+    "texturing",
+    "rigging"
+  ],
+  "character designer": [
+    "character design",
+    "illustration",
+    "drawing",
+    "animation"
+  ],
+  "storyboard artist": [
+    "storyboarding",
+    "drawing",
+    "visual communication",
+    "film/animation"
+  ],
+  "vfx artist": [
+    "visual effects",
+    "compositing",
+    "3d modeling",
+    "simulation"
+  ],
+  "rigging artist": [
+    "rigging",
+    "animation",
+    "3d modeling",
+    "character setup"
+  ],
+  "technical animator": [
+    "technical animation",
+    "scripting",
+    "programming",
+    "animation software"
+  ],
+  "art director": [
+    "art direction",
+    "visual design",
+    "team leadership",
+    "project management"
+  ],
+  "animation director": [
+    "animation direction",
+    "storytelling",
+    "team leadership",
+    "project management"
+  ],
+  "visual effects animator": [
+    "visual effects",
+    "animation",
+    "compositing",
+    "3d modeling"
+  ],
+  "graphic effects supervisor": [
+    "visual effects supervision",
+    "team leadership",
+    "technical expertise",
+    "project management"
+  ],
+  "forensic animator": [
+    "forensic animation",
+    "3d modeling",
+    "legal expertise",
+    "visual communication"
+  ],
+  "compositor": [
+    "compositing",
+    "visual effects",
+    "color correction",
+    "image manipulation"
+  ],
+  "effects technical director (fx td)": [
+    "visual effects",
+    "technical expertise",
+    "scripting",
+    "problem solving"
+  ],
+  "layout artist": [
+    "layout",
+    "cinematography",
+    "3d modeling",
+    "visual storytelling"
+  ],
+  "ai researcher": [
+    "ai/ml algorithms",
+    "python",
+    "research methodologies",
+    "data analysis"
+  ],
+  "ai software architect": [
+    "ai/ml architecture",
+    "software design",
+    "cloud computing",
+    "data modeling"
+  ],
+  "business intelligence developer": [
+    "business intelligence tools",
+    "data modeling",
+    "sql",
+    "etl processes"
+  ]
+}
